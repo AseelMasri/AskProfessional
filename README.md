@@ -38,7 +38,7 @@ cd AskProfessional
 npx http-server -p 5500
 ```
 ## Demo
-Live site: https://username.github.io/AskProfessional/ 
+Live site: https://AseelMasri.github.io/AskProfessional/ 
 ## Team
 - Aseel Masri – Front-End Developer
 - Aseel Shaher – Back-End Developer  
